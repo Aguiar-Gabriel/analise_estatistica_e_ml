@@ -7,7 +7,7 @@ Analisando tópicos importantes a serem estudados em vários notebooks.
 
 -   Tamanho amostral
 
--   Testes Estatísticos:
+-   [Testes Estatísticos:](/Estatística.ipynb/)
 
 -   T-test
 -   F-test

@@ -17,7 +17,7 @@ Analisando tópicos importantes a serem estudados em vários notebooks.
 
 **Classificação e Regressão:**
 
--   Regressão:
+-   [Regressão:](/Regressao_e_Arvores.ipynb/)
 
 -   Linear
 -   Logística
@@ -25,7 +25,7 @@ Analisando tópicos importantes a serem estudados em vários notebooks.
 -   Ordinary Least Squares
 -   Coeficientes, intervalo de confiança, e p-valores
 
--   Árvores de Decisão:
+-   [Árvores de Decisão:](/Regressao_e_Arvores.ipynb/)
 
 -   Treinamento e entropia
 
@@ -55,7 +55,7 @@ Analisando tópicos importantes a serem estudados em vários notebooks.
 -   K-medoids
 -   DBScan
 
-**Feature Selection:**
+[**Feature Selection:**](/clustering and feature selection.ipynb/)
 
 -   Ordenação de features:
 
